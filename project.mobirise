@@ -136,7 +136,7 @@
               "text-align": "right"
             },
             ".mbr-section-title I": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "font-size": "72px",
               "text-align": "left"
             }
