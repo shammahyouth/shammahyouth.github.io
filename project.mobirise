@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">ABOUT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shammahyouth.github.io\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"shammahyouth.github.io\">ABOUT</a></li>"
         },
         {
           "_tags": [
@@ -136,7 +136,7 @@
               "text-align": "right"
             },
             ".mbr-section-title I": {
-              "color": "#efefef",
+              "color": "#f3c649",
               "font-size": "72px",
               "text-align": "left"
             }
@@ -250,7 +250,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
@@ -265,9 +265,9 @@
               "active": true
             }
           },
-          "title1": "Sermon Highlights",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title1": "",
+          "subtitle1": "",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -277,9 +277,9 @@
               "active": true
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "",
+          "subtitle2": "",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -289,9 +289,9 @@
               "active": true
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "TESTIMONIES",
+          "subtitle3": "",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -328,7 +328,13 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_styles": {
@@ -363,7 +369,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "TESTIMONIES",
+          "title": "Sunday Sermon Highlights",
           "text": "may your faith be strengthened",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -378,7 +384,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text1": "Knowing God is different from knowing about God.&nbsp;<div>We’re the fig tree planted by God with Jesus Christ being the gardener. What kind of fruit are your bearing?&nbsp;</div><div>Heaven is near, the end is very close. If you’re prepared to die, you’re prepared to live.&nbsp;</div><div>Our stay on earth is just temporal, when you’re called, what account are you going to give to the creator?&nbsp;</div><div>Naked we came and naked we’ll go, Prepare always for the hour is unknown. Repent and live or refuse and Perish.&nbsp;</div><div>Remember, judgement will start from the house of God!. Repent now and live, the end is very near. If God calls you today, where will you be? will you be among the elects?&nbsp;</div><div>Live a life to please God, give and love your neighbour!&nbsp;</div><div>Hell is real and heaven too is real. How are you using your body? Remember He said if you destroy my body I will also destroy you. REPENT.&nbsp;</div><div>If you don’t repent, you’ll see heaven but you’ll miss it. Repent and live for Him only.&nbsp;</div><div>The end is near, hold on to God, He will never fail you.&nbsp;</div><div>Remember also that the kingdom that you promote, that’s where you’ll go when you die. So when you promote the kingdom of God, you’ll go there and when you promote the kingdom of hell, you’ll certainly go to hell.&nbsp;</div><div>Strive for true repentance… Blessed are the pure in heart, for they shall see God. Love your neighbour and forgive freely. Anyone who lives his life to please God, God normally protects him.&nbsp;</div><div>As you have decided to amend your ways and  please God, may He bless you and protect you.&nbsp;</div><div>Pray for the spirit of a finisher to finish well. Amen.&nbsp;</div><div><br></div><div><br></div><div><br></div><div>Worship with us this and every Sunday at the following places&nbsp;</div><div><br></div><div>Victory City (opposite Kabore down) from 7:30-10:30</div><div><br></div><div><br></div><div>Vanakpoe from 6:30-8:30</div><div><br></div><div><br></div><div>stay blessed!!&nbsp;</div>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
